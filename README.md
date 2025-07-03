@@ -287,7 +287,6 @@ For questions, suggestions, or support:
 ---
 
 <div align="center">
-  <i>Driving Nepal's automotive future, one car at a time</i>
-  <br><br>
-  <strong>Made with care in Nepal</strong>
+  <i>© 2024 GadiBazaar. All rights reserved.</i>
+
 </div>
