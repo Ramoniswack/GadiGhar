@@ -1,7 +1,7 @@
-# GadiBazaar
+# GadiGhar
 
 <div align="center">
-  <img src="project/src/assets/image.png" alt="GadiBazaar Logo" width="200"/>
+  <img src="project/src/assets/Gadighar-square-bg.png" alt="GadiGhar Logo" width="200"/>
   
   **Premium Car Sales Platform for Nepal**
   
@@ -16,7 +16,7 @@
 
 ## Overview
 
-GadiBazaar is Nepal's premier automotive marketplace, revolutionizing the car buying and selling experience with modern web technologies. Our platform connects car enthusiasts, dealers, and buyers across Nepal, providing a seamless, user-friendly interface for automotive transactions.
+GadiGhar is Nepal's premier automotive marketplace, revolutionizing the car buying and selling experience with modern web technologies. Our platform connects car enthusiasts, dealers, and buyers across Nepal, providing a seamless, user-friendly interface for automotive transactions.
 
 ## Key Features
 
@@ -64,8 +64,8 @@ GadiBazaar is Nepal's premier automotive marketplace, revolutionizing the car bu
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/gadibazaar.git
-   cd gadibazaar
+   git clone https://github.com/your-username/gadighar.git
+   cd gadighar
    ```
 
 2. **Frontend Setup**
@@ -126,7 +126,7 @@ GadiBazaar is Nepal's premier automotive marketplace, revolutionizing the car bu
 
 ## Design Philosophy
 
-GadiBazaar features a modern, clean design with:
+GadiGhar features a modern, clean design with:
 
 - **Floating Navigation** - Glassmorphism design with backdrop blur
 - **Gradient Themes** - Beautiful color transitions
@@ -231,7 +231,7 @@ GadiBazaar features a modern, clean design with:
 
 ## Contributing
 
-We welcome contributions to GadiBazaar! Here's how you can help:
+We welcome contributions to GadiGhar! Here's how you can help:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -287,6 +287,6 @@ For questions, suggestions, or support:
 ---
 
 <div align="center">
-  <i>© 2024 GadiBazaar. All rights reserved.</i>
+  <i>© 2024 GadiGhar. All rights reserved.</i>
 
 </div>

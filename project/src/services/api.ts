@@ -1,7 +1,10 @@
 import axios from 'axios';
 import { User, CarListing } from '../App';
 
-const API_BASE_URL = 'http://localhost:8000'; // PHP development server URL
+// Auto-detect environment for API URL
+const API_BASE_URL = import.meta.env.PROD 
+  ? 'https://gadighar.infy.uk/api' // Production URL
+  : 'http://localhost:8000'; // Development URL
 
 const api = axios.create({
   baseURL: API_BASE_URL,

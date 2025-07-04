@@ -56,7 +56,7 @@ export default function Homepage({ onPageChange }: HomepageProps) {
           <div className="text-center mb-20" data-aos="fade-up">
             <h2 className="text-4xl md:text-5xl font-bold text-neutral-900 mb-6">
               Why Choose 
-              <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent"> AutoDealer Pro</span>
+              <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent"> Gadi घर</span>
             </h2>
             <p className="text-xl text-neutral-600 max-w-3xl mx-auto">
               We revolutionize the automotive marketplace with cutting-edge technology and unparalleled service excellence

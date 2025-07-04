@@ -133,7 +133,7 @@ export default function Registration({ onRegister }: RegistrationProps) {
               <UserPlus className="h-10 w-10 text-white" />
             </div>
             <h1 className="text-3xl font-bold bg-gradient-to-r from-primary-700 to-secondary-700 bg-clip-text text-transparent">
-              Join AutoDealer Pro
+              Join GadiGhar
             </h1>
             <p className="text-neutral-600 mt-3 leading-relaxed">
               Create your seller account and start listing premium vehicles

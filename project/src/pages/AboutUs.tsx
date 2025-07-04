@@ -45,7 +45,7 @@ export default function AboutUs() {
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-8 leading-tight">
               About 
               <span className="block bg-gradient-to-r from-accent-400 to-success-400 bg-clip-text text-transparent">
-                GadiBazaar
+                GadiGhar
               </span>
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl text-primary-100 max-w-4xl mx-auto leading-relaxed px-4">
@@ -67,7 +67,7 @@ export default function AboutUs() {
                 </span>
               </h2>
               <p className="text-base sm:text-lg text-neutral-600 mb-6 leading-relaxed">
-                Founded in 2023 with a vision to revolutionize the automotive marketplace in Nepal, GadiBazaar 
+                Founded in 2023 with a vision to revolutionize the automotive marketplace in Nepal, GadiGhar 
                 has emerged as the premier platform for exceptional vehicles. Our journey began with a simple 
                 belief: every automotive enthusiast deserves access to extraordinary machines.
               </p>
@@ -169,9 +169,9 @@ export default function AboutUs() {
                   <div>
                     <h4 className="text-sm sm:text-base font-bold text-neutral-900 mb-2">Email Addresses</h4>
                     <p className="text-sm sm:text-base text-neutral-600 leading-relaxed">
-                      General: info@gadibazaar.com<br />
-                      Sales: sales@gadibazaar.com<br />
-                      Support: support@gadibazaar.com
+                      General: info@gadighar.com<br />
+                      Sales: sales@gadighar.com<br />
+                      Support: support@gadighar.com
                     </p>
                   </div>
                 </div>
@@ -275,7 +275,7 @@ export default function AboutUs() {
               </span>
             </h2>
             <p className="text-base sm:text-xl mb-8 sm:mb-12 text-primary-100 max-w-3xl mx-auto leading-relaxed">
-              Join our exclusive community and discover why GadiBazaar is the preferred choice 
+              Join our exclusive community and discover why GadiGhar is the preferred choice 
               for luxury automotive enthusiasts in Nepal.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center">

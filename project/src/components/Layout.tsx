@@ -1,7 +1,7 @@
 import React from 'react';
 import { LogOut, Menu, X } from 'lucide-react';
 import { Page, User } from '../App';
-import gadiBazaarLogo from '../assets/image.png';
+import gadiGharLogo from '../assets/Gadighar-square-Bg.png';
 
 interface NavigationItem {
   id: string;
@@ -44,8 +44,8 @@ export default function Layout({
                 onClick={() => onPageChange('home')}
               >
                 <img 
-                  src={gadiBazaarLogo} 
-                  alt="GadiBazaar" 
+                  src={gadiGharLogo} 
+                  alt="GadiGhar" 
                   className="h-24 w-auto object-contain group-hover:scale-105 transition-transform duration-300"
                 />
               </div>
@@ -172,8 +172,8 @@ export default function Layout({
   <div className="flex items-center justify-center sm:justify-start mb-6">
     <div className="h-24 w-auto sm:w-48 sm:h-20 relative">
       <img 
-        src={gadiBazaarLogo} 
-        alt="GadiBazaar" 
+        src={gadiGharLogo} 
+        alt="GadiGhar" 
                   className="h-24 w-auto object-contain group-hover:scale-105 transition-transform duration-300"
       />
     </div>
@@ -196,7 +196,7 @@ export default function Layout({
                 </p>
                 <p className="flex items-center space-x-2">
                   <span>✉️</span>
-                  <span>info@gadibazaar.com</span>
+                  <span>info@gadighar.com</span>
                 </p>
               </div>
             </div>
@@ -222,7 +222,7 @@ export default function Layout({
           
           <div className="border-t border-neutral-700 mt-12 pt-8 text-center">
             <p className="text-neutral-400">
-              &copy; 2024 GadiBazaar. All rights reserved.
+              &copy; 2024 GadiGhar. All rights reserved.
             </p>
           </div>
         </div>

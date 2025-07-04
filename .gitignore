@@ -6,9 +6,6 @@ package-lock.json
 dist/
 build/
 
-# Database configuration
-php-backend/config/database.php
-
 # Environment files
 .env
 .env.local
@@ -22,3 +19,7 @@ Thumbs.db
 # Logs
 *.log
 error.log
+
+# Deployment files
+infinityfree-deploy/
+minimal-deploy/
