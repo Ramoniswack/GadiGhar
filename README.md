@@ -1,7 +1,7 @@
 # GadiGhar
 
 <div align="center">
-  <img src="project/src/assets/Gadighar-square-bg.png" alt="GadiGhar Logo" width="200"/>
+  <img src="project/src/assets/Gadighar-square-Bg.png" alt="GadiGhar Logo" width="200"/>
   
   **Premium Car Sales Platform for Nepal**
   
