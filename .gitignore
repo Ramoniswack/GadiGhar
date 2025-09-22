@@ -10,6 +10,10 @@ build/
 .env
 .env.local
 
+# Ensure deployment artifacts aren't checked in
+infinityfree-deploy/
+gadighar-htdocs*.zip
+
 # System files
 .DS_Store
 Thumbs.db

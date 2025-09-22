@@ -267,6 +267,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - User privacy protection
 - GDPR compliance considerations
 
+### Sensitive configuration
+
+This project reads database credentials from environment variables or an untracked `.env` file.
+
+- Copy `.env.example` to `.env` and fill in the production values before deploying.
+- Do NOT commit `.env` to git. The repository's `.gitignore` already excludes `.env` and deployment artifacts.
+
+Example:
+
+```text
+cp .env.example .env
+# edit .env and fill in DB_HOST, DB_NAME, DB_USER, DB_PASS
+```
+
 ## Acknowledgments
 
 - React community for the amazing framework

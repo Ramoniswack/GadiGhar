@@ -3,7 +3,7 @@ import { User, CarListing } from '../App';
 
 // Auto-detect environment for API URL
 const API_BASE_URL = import.meta.env.PROD 
-  ? 'https://gadighar.infy.uk/api' // Production URL
+  ? 'https://gadighar.ct.ws/api' // Production URL (use custom domain)
   : 'http://localhost:8000'; // Development URL
 
 const api = axios.create({

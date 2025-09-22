@@ -16,7 +16,7 @@ if (php_sapi_name() !== 'cli') {
 if (isset($_SERVER['HTTP_HOST']) && (strpos($_SERVER['HTTP_HOST'], 'infinityfreeapp.com') !== false || strpos($_SERVER['HTTP_HOST'], 'infy.uk') !== false)) {
     // InfinityFree production credentials
     $host = 'sql312.infinityfree.com';
-    $dbname = 'if0_39383968_gadighar';
+    $dbname = 'if0_39383968_gadibazaar';
     $username = 'if0_39383968';
     $password = '72JtVOWZ9Tk';
 } else {
